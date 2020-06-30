@@ -1,5 +1,6 @@
 # happy.camper
-API containing useful information on a selection of campsites across the UK
+API containing useful information on a selection of campsites across the UK.
+
 The front-end part of this project can be found here: https://github.com/Avi-Cohen-Nehemia/happy-campers
 
 ## General
